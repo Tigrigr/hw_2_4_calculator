@@ -1,0 +1,63 @@
+GET http://localhost:8080/calculator
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-06-11T122800.200.txt
+
+###
+
+GET http://localhost:8080/calculator/devide?num1=5&num2=0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-06-11T122758.200.txt
+
+###
+
+GET http://localhost:8080/calculator/devide?num1=5&num2=5
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-06-11T122756.200.txt
+
+###
+
+GET http://localhost:8080/calculator/multiply?num1=5&num2=5
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-06-11T122754.200.txt
+
+###
+
+GET http://localhost:8080/calculator/subtract?num1=5&num2=5
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-06-11T122752.200.txt
+
+###
+
+GET http://localhost:8080/calculator/summ?num1=5&num2=5
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-06-11T122750.200.txt
+
+###
+
+GET http://localhost:8080/calculator
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-06-11T122745.200.txt
+
+###
+
